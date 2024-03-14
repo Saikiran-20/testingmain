@@ -1,0 +1,21 @@
+        /* Custom CSS */
+        .navbar-scroll {
+            position: absolute;
+            width: 100%;
+            background-color: #fff; /* Navbar background color */
+        }
+
+        .dropdown-menu {
+            width: 100%;
+            background-color: #f8f9fa; /* Dropdown background color */
+        }
+
+        .page-heading {
+            text-align: center;
+        }
+
+        .tall-section {
+            height: 1000px; /* Set the height as required */
+            background-color: #e9ecef; /* Background color for the tall section */
+        }
+ 
