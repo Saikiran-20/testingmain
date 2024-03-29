@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Dishes</title>
+    <link rel="stylesheet" href="module.css">
+</head>
+<body>
+  <h2>OUR MENU</h2>
+    <div class="containerfluid row">
+        <div class="card">
+            <h5 class="card-title text-warning">Chicken</h5>
+            <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus vitae voluptatibus pariatur quos, vero quam perferendis asperiores magnam officiis repellendus, quod esse ea et assumenda quo rerum nisi eos voluptates.</p>
+        </div>
+        <div class="card">
+            <h4 class="card-title text-danger">Beef</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ut perferendis, quisquam fuga laborum porro, eveniet magni labore architecto repellendus eaque libero dolorum et debitis, quidem nostrum nesciunt? Dolorem, doloribus.</p>
+        </div>
+        <div class="card">
+            <h3 class="card-title text-right text-success">Sushi</h3>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad et soluta error aliquam animi ratione dolorem at tenetur vitae quis iure eligendi voluptates reprehenderit tempore tempora, ea dolores, quasi cum?</p>
+        </div>
+    </div>
+</body>
+</html>
